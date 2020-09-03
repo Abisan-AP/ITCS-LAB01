@@ -11,5 +11,10 @@ Rip Kobe
 
 this is really annoying.
 
+<<<<<<< HEAD
 Shaq'O Neal is the goat.
 
+=======
+
+I'm not retarded.
+>>>>>>> 6c94845ac32ff864f30b28d6e0b641599edbf6f6

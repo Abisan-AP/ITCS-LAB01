@@ -1,4 +1,9 @@
 Hi, I am a pro gamer.
 League of legends is a bad game.
 
+<<<<<<< HEAD
+
+It is a rage inducing game.
+=======
 It has made more depressed then school.
+>>>>>>> 2db30a0528f95881992301d721f26c22f05de763
